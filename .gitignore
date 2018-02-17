@@ -1,0 +1,10 @@
+**/local/**
+**/saves/**
+**/build/**
+**/.imdone/**
+.imdone*
+saves
+**/node_modules/**
+**/modules/*/docs/**
+**/modules/*/examples/**
+.log
